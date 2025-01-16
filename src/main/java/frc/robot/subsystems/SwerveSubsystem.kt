@@ -108,7 +108,7 @@ class SwerveSubsystem : SubsystemBase {
 
         if (limelightMeasurement.tagCount >= 2 && limelightMeasurement.avgTagDist < 5.0 && enableApriltags) {
             swerveDrive.addVisionMeasurement(
-                limelightMeasurement.pose, limelightMeasurement.timestampSeconds, VecBuilder.fill(0.7, 0.7, 2576395649.0)
+                limelightMeasurement.pose, limelightMeasurement.timestampSeconds
             )
         }
         Logger.recordOutput(

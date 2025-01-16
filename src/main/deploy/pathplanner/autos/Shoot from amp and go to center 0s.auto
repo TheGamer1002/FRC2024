@@ -1,12 +1,5 @@
 {
-  "version": 1.0,
-  "startingPose": {
-    "position": {
-      "x": 0.6269035019606903,
-      "y": 6.639020042152284
-    },
-    "rotation": 61.34679339005687
-  },
+  "version": "2025.0",
   "command": {
     "type": "sequential",
     "data": {
@@ -71,6 +64,7 @@
       ]
     }
   },
+  "resetOdom": true,
   "folder": "Shoot from amp",
   "choreoAuto": false
 }

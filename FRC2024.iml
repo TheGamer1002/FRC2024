@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpimath/wpimath-java/2024.3.2/fc6f31091d44f29b9aa1db9fc3180a9bb904c0c1/wpimath-java-2024.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpimath/wpimath-java/2024.3.2/aa1d6d65c8ff4cc12b4199b04cbd29c6451379f2/wpimath-java-2024.3.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpimath/wpimath-java/2024.3.2/cd73b7e95ef087904b5d1b8df7c6d5782ee6d386/wpimath-java-2024.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.ntcore/ntcore-java/2024.3.2/77172cdf6ce15f86807b7e5b25e5a0b6cdaafa36/ntcore-java-2024.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.ntcore/ntcore-java/2024.3.2/35e04be9f5750a12b0f2b78e9f91669492909920/ntcore-java-2024.3.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.ntcore/ntcore-java/2024.3.2/62118a76c0e762bb9dcdc11ed2500b8bf4518bee/ntcore-java-2024.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.cscore/cscore-java/2024.3.2/2c984df108d5bd26552340d0bc9fc57cf68a2c8e/cscore-java-2024.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.cscore/cscore-java/2024.3.2/ba0ecfe6eb2281e35661a7817ef89fb767003747/cscore-java-2024.3.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.cscore/cscore-java/2024.3.2/413a2a55a440487f144ae23426b63a8d1d930dc0/cscore-java-2024.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.cameraserver/cameraserver-java/2024.3.2/3a784e38d025c1d3a166b84b318e3b64ebd03aef/cameraserver-java-2024.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.cameraserver/cameraserver-java/2024.3.2/45d591e2812633c3b2fc9ca7019e2f8fe9c6ea1/cameraserver-java-2024.3.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.cameraserver/cameraserver-java/2024.3.2/90c5fe3fc14478b197ec8115c42bcb09ee88e227/cameraserver-java-2024.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.hal/hal-java/2024.3.2/906efce0df0982f62b295b30d487f553da8ac736/hal-java-2024.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.hal/hal-java/2024.3.2/47234b37a5beb5ec29d24a9c9ddb7cef7d7b4a97/hal-java-2024.3.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.hal/hal-java/2024.3.2/9a57d1291dbcec27bd3895c7465437a68bf33c5f/hal-java-2024.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpinet/wpinet-java/2024.3.2/28a29ddb8dd9b3f133769ba37db39137feb380c7/wpinet-java-2024.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpinet/wpinet-java/2024.3.2/48bc853cd40f8623f18e7c81f68e6a8ece60c314/wpinet-java-2024.3.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpinet/wpinet-java/2024.3.2/dbb72c645bd5fb76c9aff19c4bdc903196f74c55/wpinet-java-2024.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpiutil/wpiutil-java/2024.3.2/d99604afb0b48c51bdb2ce966f5b21572dfb9ec0/wpiutil-java-2024.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpiutil/wpiutil-java/2024.3.2/a522e6fa35ad2d264ad0303ce0fb372386c1a65d/wpiutil-java-2024.3.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpiutil/wpiutil-java/2024.3.2/77a0864de064bd72e3beade53d0d8782707cdb44/wpiutil-java-2024.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.apriltag/apriltag-java/2024.3.2/c55a94008ff1d55938b3937ad7f73378772595cc/apriltag-java-2024.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.apriltag/apriltag-java/2024.3.2/f88b5ee5bec649c61b1ddf23325e523f41c6c3bc/apriltag-java-2024.3.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.apriltag/apriltag-java/2024.3.2/a15a67105e95dcbe08d25e4f24285b3ef99a77fd/apriltag-java-2024.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpiunits/wpiunits-java/2024.3.2/5b1768180c2d4c4561ef3fc28334f6630f6c7107/wpiunits-java-2024.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpiunits/wpiunits-java/2024.3.2/74ff3f752612c7b6ecc420c309c418bbab7ec8e5/wpiunits-java-2024.3.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpiunits/wpiunits-java/2024.3.2/c8d88c50ea1cc566923db7733ed8a603b82eebb3/wpiunits-java-2024.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/edu/wpi/first/thirdparty/frc2024/opencv/opencv-java/4.8.0-2/opencv-java-4.8.0-2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/edu/wpi/first/thirdparty/frc2024/opencv/opencv-java/4.8.0-2/opencv-java-4.8.0-2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.akit.junction/wpilib-shim/3.2.0/fb416330713c18255e0e0e97a8788b006bfbdc1d/wpilib-shim-3.2.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.akit.junction/wpilib-shim/3.2.0/f38359e64b9e0fd6be246fa7df9bed7b0ac2a597/wpilib-shim-3.2.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.akit.junction/wpilib-shim/3.2.0/b6ad9b8c54ea7d21165734be024c32fcd8af841f/wpilib-shim-3.2.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.akit.junction/junction-core/3.2.0/531a38290fb542465f1e26900973da858a4eb507/junction-core-3.2.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.akit.junction/junction-core/3.2.0/fc00d9d57ce793e7f13569e9bc2de864abc883ae/junction-core-3.2.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.akit.junction/junction-core/3.2.0/ca66b2a609dc98d803e0ab096cf288fd8ab607a4/junction-core-3.2.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-simple/0.43.1/ejml-simple-0.43.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-simple/0.43.1/ejml-simple-0.43.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-simple/0.43.1/ejml-simple-0.43.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/us/hebi/quickbuf/quickbuf-runtime/1.3.3/quickbuf-runtime-1.3.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/us/hebi/quickbuf/quickbuf-runtime/1.3.3/quickbuf-runtime-1.3.3-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/us/hebi/quickbuf/quickbuf-runtime/1.3.3/quickbuf-runtime-1.3.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibNewCommands/wpilibNewCommands-java/2024.3.2/fe368901feba6d2db12a8aed8605beb2ca0c8805/wpilibNewCommands-java-2024.3.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibNewCommands/wpilibNewCommands-java/2024.3.2/f4b16c0cec641f3cf9712da9308f8bff55e918/wpilibNewCommands-java-2024.3.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilibNewCommands/wpilibNewCommands-java/2024.3.2/db4922bafc176c9135cabb0ceac0cf10ac00dde6/wpilibNewCommands-java-2024.3.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.reduxrobotics.frc/ReduxLib-java/2024.1.1/c6bf593c72a4736579586c76c9c97b6f41b03a1e/ReduxLib-java-2024.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.reduxrobotics.frc/ReduxLib-java/2024.1.1/9cfe5a4b0cb191da09cd8cb30f36f99c7a2dba55/ReduxLib-java-2024.1.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.reduxrobotics.frc/ReduxLib-java/2024.1.1/8655c1edae16e8182d6d5c231e0549d728c114f3/ReduxLib-java-2024.1.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.pathplanner.lib/PathplannerLib-java/2024.2.6/f52f67f33dff8a3c5a53c665ae2cf225b507b3f8/PathplannerLib-java-2024.2.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.pathplanner.lib/PathplannerLib-java/2024.2.6/4ac29dbb672117484973d5a622833754f4ad46e9/PathplannerLib-java-2024.2.6-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.pathplanner.lib/PathplannerLib-java/2024.2.6/916af044db773db4d037010ff6c08d2ad1a75108/PathplannerLib-java-2024.2.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.choreo.lib/ChoreoLib-java/2024.1.3/8ecc756686123cb2e80f1eafde238ff88158e686/ChoreoLib-java-2024.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.choreo.lib/ChoreoLib-java/2024.1.3/f9458c48ebce43b96a4b1198561c3b3baca78e9a/ChoreoLib-java-2024.1.3-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.choreo.lib/ChoreoLib-java/2024.1.3/8c6197e64a4666b99e18d4a060463501f6648f0c/ChoreoLib-java-2024.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.revrobotics.frc/REVLib-java/2024.2.3/ac36405e1d48a37f938a63bf51e1cf6b6cfa1083/REVLib-java-2024.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.revrobotics.frc/REVLib-java/2024.2.3/a706232dc18256be1b3b8817e5767d62fa22960e/REVLib-java-2024.2.3-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.revrobotics.frc/REVLib-java/2024.2.3/20d58e39ad94cff3b3df31ad9573a0dd2f7e3df4/REVLib-java-2024.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.urcl/URCL-java/2024.1.0/f6c24d93ab6a785d2d54051a3fdaf53df6da6d89/URCL-java-2024.1.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.urcl/URCL-java/2024.1.0/a19596cee9b73049f7cec3ea47198c53896adbba/URCL-java-2024.1.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.urcl/URCL-java/2024.1.0/aa67a95d3106c72131a8c61b7a41a7d3aea8ad28/URCL-java-2024.1.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/api-java/5.33.1/6c5878f716a273ca9c4e8205234d99c769689d10/api-java-5.33.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/api-java/5.33.1/5ca29d3f23439d18f2928614fa3e3a53b09134a5/api-java-5.33.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/api-java/5.33.1/7ce59ff44b5f77358160952fe15815ebfa531c96/api-java-5.33.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/wpiapi-java/5.33.1/bfd9371f76176d1ce1c0047326a53194d02749a/wpiapi-java-5.33.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/wpiapi-java/5.33.1/c6cff6262efbe5a9f37cd1fe0f4247f912778928/wpiapi-java-5.33.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix/wpiapi-java/5.33.1/973d28882811eddc6f38563372b728072d61a9af/wpiapi-java-5.33.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-frc-java/2024.1.0/afe5770a7843e0459caab435c352e36af699c5d4/navx-frc-java-2024.1.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-frc-java/2024.1.0/d2b224844db562eb0fb10c56ee60bc9a99a26b9/navx-frc-java-2024.1.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.kauailabs.navx.frc/navx-frc-java/2024.1.0/b82ed2342fe85df63bf1bb05b749656b856a1a00/navx-frc-java-2024.1.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.akit.conduit/conduit-api/3.2.0/c287925b35fa1855041ffbfb039776a846e35a15/conduit-api-3.2.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.akit.conduit/conduit-api/3.2.0/573179b613972702642780a2f571de32dddda289/conduit-api-3.2.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.littletonrobotics.akit.conduit/conduit-api/3.2.0/a7145a257d9e17ab70d49bb8645d9e12877b42e5/conduit-api-3.2.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix6/wpiapi-java/24.2.0/19837cac19186d12f04acf6762178d8bb612cd71/wpiapi-java-24.2.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix6/wpiapi-java/24.2.0/7d37c6e73ff88a8945089b8967f8d76228a5eea0/wpiapi-java-24.2.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/com.ctre.phoenix6/wpiapi-java/24.2.0/7d85cdbadb04e6323a03d5fd07a2a7c96015880/wpiapi-java-24.2.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-fsparse/0.43.1/ejml-fsparse-0.43.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-fsparse/0.43.1/ejml-fsparse-0.43.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-fsparse/0.43.1/ejml-fsparse-0.43.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-fdense/0.43.1/ejml-fdense-0.43.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-fdense/0.43.1/ejml-fdense-0.43.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-fdense/0.43.1/ejml-fdense-0.43.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-dsparse/0.43.1/ejml-dsparse-0.43.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-dsparse/0.43.1/ejml-dsparse-0.43.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-dsparse/0.43.1/ejml-dsparse-0.43.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-ddense/0.43.1/ejml-ddense-0.43.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-ddense/0.43.1/ejml-ddense-0.43.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-ddense/0.43.1/ejml-ddense-0.43.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-cdense/0.43.1/ejml-cdense-0.43.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-cdense/0.43.1/ejml-cdense-0.43.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-cdense/0.43.1/ejml-cdense-0.43.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-zdense/0.43.1/ejml-zdense-0.43.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-zdense/0.43.1/ejml-zdense-0.43.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-zdense/0.43.1/ejml-zdense-0.43.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-core/0.43.1/ejml-core-0.43.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-core/0.43.1/ejml-core-0.43.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/ejml/ejml-core/0.43.1/ejml-core-0.43.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.10.2/359132c82a9d3fa87a325db6edd33b5fdc67a3d8/junit-jupiter-params-5.10.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.10.2/1884958a4a9a9cb99f55d406072cf51348ca764c/junit-jupiter-params-5.10.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.10.2/1add8e4310a408675f46eae8acafe6b2b72232e5/junit-jupiter-params-5.10.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.10.2/fb55d6e2bce173f35fd28422e7975539621055ef/junit-jupiter-api-5.10.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.10.2/6b1a9f9714e17d9fe9d55bf74f05f802f3833c2b/junit-jupiter-api-5.10.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.10.2/b281dbb5921ce56b37b6e07a2502f663ca6c8db6/junit-jupiter-api-5.10.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.2/3197154a1f0c88da46c47a9ca27611ac7ec5d797/junit-platform-commons-1.10.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.2/eddfd51d5bb1a188e23dcc499311181b30b19b88/junit-platform-commons-1.10.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.2/513097c1d045c39db2fa42a54f830d4358936dc3/junit-platform-commons-1.10.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.10.2/831c0b86ddc2ce38391c5b81ea662b0cfdc02cce/junit-jupiter-5.10.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.10.2/9ae01204722a8888dbc638f8960c6d07c074b1ef/junit-jupiter-5.10.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.10.2/4e79ee610aff59d79b5f229252ded392b7d48fd1/junit-jupiter-5.10.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/wpilib/2024/maven/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.10.2/f1f8fe97bd58e85569205f071274d459c2c4f8cd/junit-jupiter-engine-5.10.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.10.2/10135e653002732d0d2f952190ee47dc008a42ee/junit-jupiter-engine-5.10.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.10.2/624f71a8d76185f2ac8d234c686bbdab0bd28ae0/junit-jupiter-engine-5.10.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.10.2/8125dd29e847ca274dd1a7a9ca54859acc284cb3/junit-platform-launcher-1.10.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.10.2/92703c665782c6323437617d35a9de394eced673/junit-platform-launcher-1.10.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.10.2/cab5a912975af7dc5d195970f8f1ca27f5caf35a/junit-platform-launcher-1.10.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.10.2/d53bb4e0ce7f211a498705783440614bfaf0df2e/junit-platform-engine-1.10.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.10.2/240e06277bd0beec148ee35c9ad657b65e626f9c/junit-platform-engine-1.10.2-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar:///Users/brownlowe.2/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.10.2/886c197f5fcfe9eaf0d1dde20aa1bd3abd653f44/junit-platform-engine-1.10.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="ModuleRootManager"/>
+</module>
